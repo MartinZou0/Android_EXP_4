@@ -34,9 +34,11 @@ SimpleAdapter(Context context, List<? extends Map<String, ?>> data, int resource
 
 
 
-现在要实现一个例子利用SimpleAdapter，来实现ListView中的每一行内容为文字加上图片，并在点击item的时候会有Toast提醒，这个时候需要设置item的事件监听实现效果如下：
+现在要实现一个例子利用SimpleAdapter，来实现ListView中的每一行内容为文字加上图片,并在点击item的时候会有Toast提醒，这个时候需要设置item的事件监听实现效果如下：
 
+<div aligen="center">
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/1.png"/>
+</div>
 
 下面贴出主要代码
 
@@ -199,8 +201,9 @@ AlertDialog可以在当前的界面弹出一个对话框，这个对话框是置
 
 ### 3.实现效果
 
+<div align="center">
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/2.png"/>
-
+</div>
 
 
 
@@ -269,19 +272,22 @@ AlertDialog可以在当前的界面弹出一个对话框，这个对话框是置
 - `android:showAsAction`：指定菜单项的显示方式。常用的有`ifRoom、never、always、withText`，多个属性值之间可以使用`|`隔开。
 
 ### 3.实现效果
-
+<div align="center">
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/3.png"/>
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/4.png"/>
-<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/5.jpg"/>
+</div>
 
+<div align="center">
+<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/5.jpg"/>
+</div>
 
 ## ActionMode实现ListView长按多选
 
 ### 1.实现效果
-
-<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/6.jpg"/>
-<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/7.jpg"/>
-
+<div align="center">
+<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/6.png"/>
+<img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/7.png"/>
+<div>
 
 ### 后续的技术内容可以访问我的博客
 
