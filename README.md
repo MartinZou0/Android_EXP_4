@@ -36,7 +36,7 @@ SimpleAdapter(Context context, List<? extends Map<String, ?>> data, int resource
 
 现在要实现一个例子利用SimpleAdapter，来实现ListView中的每一行内容为文字加上图片,并在点击item的时候会有Toast提醒，这个时候需要设置item的事件监听实现效果如下：
 
-<div aligen="center">
+<div align="center">
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/1.png"/>
 </div>
 
