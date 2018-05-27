@@ -271,6 +271,7 @@ AlertDialog可以在当前的界面弹出一个对话框，这个对话框是置
 
 ### 3.实现效果
 
+
 <div align="center">
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/3.png"/>
 <img width="300" src="https://github.com/MartinZou0/Android_EXP_4/blob/master/shortcut/4.png"/>
